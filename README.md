@@ -35,7 +35,7 @@ Before running this application, ensure you have:
 1. Clone the repository:
 
         bash
-        git clone <repository-url>
+        git clone https://github.com/thetnaing-dh/DapperCRUD_Operation
         cd DapperCRUD
    
 2. Update the connection string in DapperHelper.cs:
